@@ -1,8 +1,5 @@
 # Zorp Privacy Policy
 
-**Effective Date:** [Insert Date]
-**Last Updated:** [Insert Date]
-
 ## Introduction
 
 Zorp ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, and protect information when you use the Zorp mobile application and related services (collectively, the "Service").
